@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am: 
+* *kind* 
+* __smart__
+* _responsible_
+* __hardworking__
